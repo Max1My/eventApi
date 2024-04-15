@@ -1,0 +1,11 @@
+{
+  "model": "src.core.domain.roles.models.Role",
+  "data": [
+    {
+      "name": "ADMIN"
+    },
+    {
+      "name": "USER"
+    }
+  ]
+}

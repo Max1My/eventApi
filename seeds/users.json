@@ -1,0 +1,17 @@
+{
+  "model": "src.core.domain.users.models.User",
+  "data": [
+    {
+      "first_name": "Alex",
+      "username": "Alex",
+      "password": "password",
+      "role_id": 1
+    },
+    {
+      "first_name": "John",
+      "username": "John",
+      "password": "password",
+      "role_id": 2
+    }
+  ]
+}
